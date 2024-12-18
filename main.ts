@@ -6,7 +6,7 @@
  * stop when an object is detected within 10 cm, reverse for 10 cm, turn 90 degrees, and continue.
 */
 
-// Setup
+// Setup 
 basic.showIcon(IconNames.Happy)
 
 // loop forever
